@@ -174,7 +174,7 @@ body {
 
 .pad {
 	font-family: Kunstler Script;
-	font-size: 26px;
+	font-size: 20px;
 	text-align: center;
 	flex-direction: column;
 	display: flex;
@@ -195,7 +195,7 @@ body {
 
 .banner-general {
 	background-color: #ea899a;
-	padding: 50px
+	padding: 60px
 }	
 
 
